@@ -17,7 +17,8 @@ Formação em Contabilidade e Finanças na FEA/USP (conclusão em 2019), adquiri
 ## Projetos:
 Abaixo, algum dos projetos de Data Science desenvolvidos:
 
-* **Avaliação de risco de crédito:** https://bit.ly/3Lqaep5
+* **Avaliação de Risco de crédito:** https://bit.ly/3Lqaep5
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3vpcs2n
 * **Analisando dados do Airbnb - Amsterdam:** https://bit.ly/3Eb27se
 
 
