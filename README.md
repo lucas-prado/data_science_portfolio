@@ -19,7 +19,7 @@ Abaixo, algum dos projetos de Data Science desenvolvidos:
 
 * **Avaliação de Risco de crédito:** https://bit.ly/3Lqaep5
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3vpcs2n
-* **Analisando dados do Airbnb - Amsterdam:** https://bit.ly/3Eb27se
+* **Analisando dados do Airbnb - Amsterdam:** https://bit.ly/3LqlX6N
 
 
 ---
