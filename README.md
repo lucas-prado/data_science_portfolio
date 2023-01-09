@@ -7,7 +7,9 @@
 # Lucas Prado
 <sub>*Cientista de Dados e Analista de Riscos*</sub>
 
-Formação em Contabilidade e Finanças na FEA/USP (conclusão em 2019), adquirindo o prêmio de melhor TCC - FEA/USP 2019 em Mercado Financeiro, de Crédito e de Capitais. Atualmente, atuando como Analista de Capital e Risco de Liquidez no C6 Bank e buscando cada vez mais desenvolvimento prático com tecnologia voltada à análise de dados no mercado financeiro e setores derivados. Possuo experiência prática na linguagem de programação 'Python', bem como algumas principais bibliotecas (Pandas, Numpy, Matplotlib e StatsModels), e em 'SQL' na utilização do Google Big Query.
+Formação em Contabilidade e Finanças na FEA/USP (conclusão em 2019), atuando com aplicação de tecnologia voltada a tratamento, análise e modelagem de dados no mercado financeiro e setores derivados.
+
+Possuo experiência prática na linguagem de programação 'Python', bem como algumas principais bibliotecas para análise e modelagem de dados (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn e XGboost), em 'SQL', na utilização do Google Big Query, Spark SQL, PostgreSQL e Amazon Redshift SQL, e e em desenvolvimento de dashboards, na utilização do Google Data Studio.
 
 **Experiência em:** Python, SQL, Machine Learning e Finanças.
 
