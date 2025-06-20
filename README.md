@@ -7,22 +7,12 @@
 # Lucas Prado
 <sub>*Cientista de Dados e Analista de Riscos*</sub>
 
-Formação em Contabilidade e Finanças na FEA/USP (conclusão em 2019), atuando com aplicação de tecnologia voltada a tratamento, análise e modelagem de dados no mercado financeiro e setores derivados.
-
-Possuo experiência prática na linguagem de programação 'Python', bem como algumas principais bibliotecas para análise e modelagem de dados (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn e XGboost), em 'SQL', na utilização do Google Big Query, Spark SQL, PostgreSQL e Amazon Redshift SQL, e e em desenvolvimento de dashboards, na utilização do Google Data Studio.
+Bem-vindo ao meu portfólio pessoal de projetos em Ciências de Dados. Atuo como analista/cientista de dados com 4+ anos de experiência em aplicações de tecnologia voltada a tratamento, análise e modelagem de dados no mercado financeiro e setores derivados. 
 
 **Experiência em:** Python, SQL, Machine Learning e Finanças.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-alvarenga-prado-443a83168/)
-
-## Projetos:
-Abaixo, algum dos projetos de Data Science desenvolvidos:
-
-* **Avaliação de Risco de crédito:** https://bit.ly/3Lqaep5
-* **Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3MDxdx2
-* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3vpcs2n
-* **Analisando dados do Airbnb - Amsterdam:** https://bit.ly/3LqlX6N
 
 
 ---
